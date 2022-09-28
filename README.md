@@ -24,9 +24,10 @@ using that location would cover all projects in the workspace for the whole team
   
 That wide location choice is useful if you work on multiple projects with different header conventions or you want to share a default header comment format with other team members.
 
+**[Reference](https://matrejek.eu/posts/customizing-xcode-header-comments/)**
+
 # Apple Documentation
 
 **[Text macro format reference](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/devc8a500cb9)**
 
 **[Text macros reference](https://help.apple.com/xcode/mac/9.0/index.html?localePath=en.lproj#/dev7fe737ce0)**
-
