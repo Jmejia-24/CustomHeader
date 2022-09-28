@@ -14,7 +14,7 @@ Put the IDETemplateMacros.plist file in the correct location. It could be placed
 ``<WorkspaceName>.xcworkspace/xcuserdata/[username].xcuserdatad/IDETemplateMacros.plist``\
 using that location would cover all projects in the workspace for just a single developer.
 
-- **Workspace shared data:**\ 
+- **Workspace shared data:**\
 ``<WorkspaceName>.xcworkspace/xcshareddata/IDETemplateMacros.plist``\
 using that location would cover all projects in the workspace for the whole team using the workspace.
 
